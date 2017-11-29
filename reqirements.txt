@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+matplotlib
+ipython[notebook]
+jupyter
+Pillow
+plotly
+fitter
+seaborn
+pymatbridge
