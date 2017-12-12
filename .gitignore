@@ -97,9 +97,7 @@ ENV/
 .ropeproject
 
 
-data/doc
-data/images
-data/result
-data/tags
-
+data/
 .idea/
+
+lab02

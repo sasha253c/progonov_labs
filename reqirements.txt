@@ -8,5 +8,4 @@ Pillow
 plotly
 fitter
 seaborn
-pymatbridge
-pp==1.6.4.4
+scikit-learn
